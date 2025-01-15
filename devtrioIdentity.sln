@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "devtrioIdentity", "devtrioIdentity\devtrioIdentity.csproj", "{1EBA638A-894A-4CD2-B232-577ADDF791A1}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ApplicationDbContext", "ApplicationDbContext\ApplicationDbContext.fsproj", "{89F448F3-2676-4EFC-9C02-E395C9719FC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{1EBA638A-894A-4CD2-B232-577ADDF791A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EBA638A-894A-4CD2-B232-577ADDF791A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EBA638A-894A-4CD2-B232-577ADDF791A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F448F3-2676-4EFC-9C02-E395C9719FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F448F3-2676-4EFC-9C02-E395C9719FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F448F3-2676-4EFC-9C02-E395C9719FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F448F3-2676-4EFC-9C02-E395C9719FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
