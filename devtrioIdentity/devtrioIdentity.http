@@ -1,0 +1,6 @@
+@devtrioIdentity_HostAddress = http://localhost:5013
+
+GET {{devtrioIdentity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
