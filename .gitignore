@@ -46,3 +46,8 @@ project.fragment.lock.json
 # Ignore Resharper
 _ReSharper*/
 *.[Rr]e[Ss]harper
+
+# remove vscode settings
+.vscode/
+.vs/*
+.vs
